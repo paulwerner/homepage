@@ -1,4 +1,6 @@
-# homepage
+# Home
+
+This repository contains my personal website [paulwerner.net](https://paulwerner.net) build with Vue.js + Vuetify.
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
