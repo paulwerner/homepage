@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style scoped>
-.theme--light.v-sheet {
+.theme--light.v-app-bar.v-toolbar.v-sheet {
   background-color: #0f0b07;
   border-style: none none solid none;
   border-color: #be884b;
