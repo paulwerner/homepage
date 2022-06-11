@@ -44,7 +44,7 @@
 </template>
 <script>
 export default {
-  name: "Footer-Component",
+  name: "FooterComponent",
   components: {
     Modal: () => import("./Modal"),
   },

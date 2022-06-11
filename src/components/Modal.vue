@@ -12,7 +12,7 @@
 </template>
 <script>
 export default {
-  name: "Modal-Component",
+  name: "ModalComponent",
   props: {
     value: Boolean,
     title: String,

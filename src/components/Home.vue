@@ -6,7 +6,7 @@
 import Cite from "./Cite";
 
 export default {
-  name: "Home-Component",
+  name: "HomeComponent",
   components: {
     Cite,
   },

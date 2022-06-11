@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  name: "Cite-Component",
+  name: "CiteComponent",
   data() {
     return {
       avatarSize: "180px",
