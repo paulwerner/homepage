@@ -55,7 +55,6 @@ export default {
       modalBody: "",
       mail_lnk: "mailto:contact@paulwerner.net",
       github_lnk: "https://github.com/paulwerner",
-      xing_lnk: "https://www.xing.com/profile/Paul_Werner23",
       linkedin_lnk: "https://de.linkedin.com/in/paul-werner",
       legalTitle: "LEGAL NOTICE",
       legalBody: `<h3>Information pursuant to sec. 5 German Telemedia Act</h3>
@@ -126,7 +125,6 @@ export default {
         { img: "mdi-github", href: "https://github.com/paulwerner" },
         { img: "mdi-mail", href: "mailto:contact@paulwerner.net" },
         { img: "mdi-linkedin", href: "https://de.linkedin.com/in/paul-werner" },
-        { img: "mdi-xing", href: "https://www.xing.com/profile/Paul_Werner23" },
       ],
     };
   },
